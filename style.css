@@ -1,0 +1,62 @@
+   p {
+    font-family: 'Source Serif Pro', serif;
+    color: darkslategray;
+    font-weight: 400;
+    font-size: medium;
+}
+
+.list-group-item {
+    color: darkslategray;
+}
+
+.accordion-body {
+    color: darkslategray; 
+}
+
+.accordion-button {
+    color: darkslategray;
+}
+
+.form-label {
+    color: darkslategray;  
+}
+
+.form-text {
+    color: darkslategray; 
+}
+
+.navigation {
+    color: darkslategray;   
+}
+
+.navbar-brand {
+    width: 275px;
+}
+
+.navbar-brand > img {
+    width: 100%
+}
+.button {
+    background-color: #408558; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 40px;
+    transition-duration: 0.2s;
+  }
+
+  .button:hover {
+    background-color: #154d02; /* Green */
+    color: white;
+}
+
+.accordion {
+    --bs-accordion-active-bg: #408558; /* Green */
+    --bs-accordion-active-color: white;
+    --bs-accordion-border-color: #408558; 
+;
+  }
